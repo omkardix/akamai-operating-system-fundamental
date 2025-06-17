@@ -1,0 +1,29 @@
+Linux Distributions
+A Linux distribution (distro) is an operating system that usually includes the Linux kernel, GNU tools and libraries, added software, documentation, a window system (the most common being the X Window System, or, more recently, Wayland), a window manager, and a desktop environment. Linux users usually obtain their operating system by downloading one of the Linux distributions. 
+
+Some common distributions are: 
+
+CentOS 
+
+Red Hat® Enterprise Linux (RHEL) 
+
+Fedora 
+
+SUSE Linux Enterprise 
+
+openSUSE 
+
+Debian 
+
+Ubuntu 
+
+Mandriva
+
+Mint
+
+Linux distributions are like each other, but each has its own strengths and weaknesses. The software packaged with each distribution can make a huge difference in how Linux works for you. Although you can always download or buy missing components, the software package is easier to use if the components have already been tested and compiled together to work with your distribution.
+
+In this course, we will be working with Ubuntu. 
+
+There are two ways of obtaining Linux software: buying it from a local computer outlet or downloading it from a website. While it is convenient to buy Linux software from a store, downloading it over a broadband connection is also practical.
+
